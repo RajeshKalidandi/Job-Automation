@@ -1,0 +1,24 @@
+{"level":"info","message":"Server is running on port 5000","service":"job-automation-api","timestamp":"2024-10-06 19:24:57"}
+{"level":"info","message":"Server is running on port 5000","service":"job-automation-api","timestamp":"2024-10-06 19:25:12"}
+{"level":"info","message":"Server is running on port 5000","service":"job-automation-api","timestamp":"2024-10-06 19:25:32"}
+{"level":"info","message":"Server is running on port 5000","service":"job-automation-api","timestamp":"2024-10-06 19:29:01"}
+{"level":"info","message":"Server is running on port 5000","service":"job-automation-api","timestamp":"2024-10-06 19:29:49"}
+{"level":"info","message":"Server is running on port 5000","service":"job-automation-api","timestamp":"2024-10-06 19:30:03"}
+{"level":"info","message":"Server is running on port 5000","service":"job-automation-api","timestamp":"2024-10-06 19:32:59"}
+{"level":"info","message":"GET /api/jobs","service":"job-automation-api","timestamp":"2024-10-06 19:36:27"}
+{"level":"info","message":"GET /api/jobs","service":"job-automation-api","timestamp":"2024-10-06 19:36:27"}
+{"level":"info","message":"POST /api/profile","service":"job-automation-api","timestamp":"2024-10-06 19:36:42"}
+{"level":"info","message":"POST /api/profile","service":"job-automation-api","timestamp":"2024-10-06 19:36:42"}
+{"level":"info","message":"GET /api/jobs","service":"job-automation-api","timestamp":"2024-10-06 19:36:44"}
+{"level":"info","message":"GET /api/jobs","service":"job-automation-api","timestamp":"2024-10-06 19:36:44"}
+{"level":"info","message":"POST /api/auth/signup","service":"job-automation-api","timestamp":"2024-10-06 19:37:09"}
+{"email":"testing@gmail.com","level":"info","message":"New user signed up","service":"job-automation-api","timestamp":"2024-10-06 19:37:09"}
+{"level":"info","message":"POST /api/auth/login","service":"job-automation-api","timestamp":"2024-10-06 19:37:14"}
+{"level":"info","message":"User logged in successfully","service":"job-automation-api","timestamp":"2024-10-06 19:37:14","userId":"user_id_here"}
+{"level":"info","message":"GET /api/jobs","service":"job-automation-api","timestamp":"2024-10-06 19:37:22"}
+{"level":"info","message":"GET /api/jobs","service":"job-automation-api","timestamp":"2024-10-06 19:37:22"}
+{"level":"info","message":"POST /api/profile","service":"job-automation-api","timestamp":"2024-10-06 19:37:38"}
+{"level":"info","message":"GET /api/jobs","service":"job-automation-api","timestamp":"2024-10-06 19:39:46"}
+{"level":"info","message":"GET /api/jobs","service":"job-automation-api","timestamp":"2024-10-06 19:39:46"}
+{"level":"info","message":"POST /api/auth/login","service":"job-automation-api","timestamp":"2024-10-06 19:49:58"}
+{"level":"info","message":"User logged in successfully","service":"job-automation-api","timestamp":"2024-10-06 19:49:58","userId":"user_id_here"}
